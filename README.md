@@ -4,7 +4,7 @@
 ![Saad Rahman](https://user-images.githubusercontent.com/81616266/194923876-3db0189a-cd9a-4b21-a9c5-7f80f28fafda.png)
 
 
- <h4>Here you will find me working on web projects and DevOps, I am a third year Computer Science Bachelor getting my hands dirty in the tech field! 💻
+ <h4>Here you will find me working on Web Projects, DevOps and getting my hands dirty in open-source. If you like my work or have something to ask, connect with me, scroll down to the contact section. 💻
  </h4>
  
  
@@ -51,7 +51,7 @@
 
 
 
-<h1>Let's Connect!</h1>
+<h1>Contact</h1>
 <br>
 
 
