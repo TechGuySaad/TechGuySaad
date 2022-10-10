@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<h1>Welcome to my Code Workshop 🔧</h1> 
+
+
+<h2>What you can find me doing here: </h2>
+
+html css javascript node mongo react express docker kubernetes
+
+
+
 
 <!--
 **TechGuySaad/TechGuySaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
