@@ -25,7 +25,7 @@
 <p>
 <img src="https://user-images.githubusercontent.com/81616266/194828587-61038de5-b0ce-4073-abd8-fa75a0ef6c9c.svg" width="50" height="50"  >
 <img src="https://user-images.githubusercontent.com/81616266/194829483-3921209a-d1ca-44f5-b887-fc4ac9bcf7ec.svg" width="50" height="50" >
-<img src="https://user-images.githubusercontent.com/81616266/194829165-ae5be5b8-f3b7-4ef3-bc40-0ce0da4595ec.svg" width="50" height="50">
+<!-- <img src="https://user-images.githubusercontent.com/81616266/194829165-ae5be5b8-f3b7-4ef3-bc40-0ce0da4595ec.svg" width="50" height="50"> -->
 <img src="https://user-images.githubusercontent.com/81616266/194829225-031acad0-c544-4bfe-8b2b-9f813cf25d1f.svg" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/81616266/194829117-9d1b8e25-a61b-4844-b03f-331352a7823a.svg" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/81616266/194829065-8d479c16-38e4-4b5d-bb73-dd31e72ea453.svg" width="50" height="50">
@@ -33,7 +33,7 @@
 <img src="https://user-images.githubusercontent.com/81616266/194828767-599d855a-a5e5-4dd8-8b61-e195c3690e2c.svg" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/81616266/194829401-924c7ecf-ac9a-4b14-a21e-d9cc71a8dd30.svg" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/81616266/194830433-1ba9342d-f899-4634-8740-1b59489fb00b.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194830346-6a3d9ae3-5ca3-4702-8665-fdd0f44a4ff7.svg" width="50" height="50">
+<!-- <img src="https://user-images.githubusercontent.com/81616266/194830346-6a3d9ae3-5ca3-4702-8665-fdd0f44a4ff7.svg" width="50" height="50"> -->
 <img src="https://user-images.githubusercontent.com/81616266/194830294-ba97d1e6-9228-435b-8f96-7e9e73454f69.svg" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/81616266/194830246-6953f44e-dad1-469d-a25f-9c557c51fb38.svg" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/81616266/194830173-5e13c1b1-906d-4c2b-92e2-dd9d07e1592f.svg" width="50" height="50">
@@ -55,7 +55,7 @@
 <br>
 
 
-<a href="https://www.facebook.com/saad.rahman.5621/"><img src="https://user-images.githubusercontent.com/81616266/194835538-b5c3cb6b-19c3-48ca-ab97-8df1cf82035f.svg" width="50" height="50"></a>
+
 
  
 <a href="https://twitter.com/TechGuySaad"><img src="https://user-images.githubusercontent.com/81616266/194835625-8ef6faa8-1aff-4b55-a676-dbcf95e1caec.svg" width="50" height="50"></a>
