@@ -1,94 +1,51 @@
-<h1> Hello World!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- Welcome to my Code Workshop 🔧 </h1>
- 
-![Saad Rahman](https://user-images.githubusercontent.com/81616266/194923876-3db0189a-cd9a-4b21-a9c5-7f80f28fafda.png)
-
-
- <h4>Here you will find me working on Web Projects, DevOps and getting my hands dirty in open-source. If you like my work or have something to ask, connect with me, scroll down to the contact section. 💻
- </h4>
- 
- 
-
- 
- 
- 
- 
+# Hello World! 👋
 
 
 
+I am a **Full Stack Developer** passionate about building scalable web applications, automating workflows, and contributing to open-source projects.
 
+Welcome to my code workshop 🔧. Feel free to explore my projects, toolbox, and get in touch!
 
+---
 
+## 🛠️ My Toolbox
 
-<h1>My Toolbox 🧰</h2>
-<br>
 <p>
-<img src="https://user-images.githubusercontent.com/81616266/194828587-61038de5-b0ce-4073-abd8-fa75a0ef6c9c.svg" width="50" height="50"  >
-<img src="https://user-images.githubusercontent.com/81616266/194829483-3921209a-d1ca-44f5-b887-fc4ac9bcf7ec.svg" width="50" height="50" >
-<!-- <img src="https://user-images.githubusercontent.com/81616266/194829165-ae5be5b8-f3b7-4ef3-bc40-0ce0da4595ec.svg" width="50" height="50"> -->
-<img src="https://user-images.githubusercontent.com/81616266/194829225-031acad0-c544-4bfe-8b2b-9f813cf25d1f.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194829117-9d1b8e25-a61b-4844-b03f-331352a7823a.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194829065-8d479c16-38e4-4b5d-bb73-dd31e72ea453.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194828835-8040636b-912c-48a3-8adf-81f74c83accb.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194828767-599d855a-a5e5-4dd8-8b61-e195c3690e2c.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194829401-924c7ecf-ac9a-4b14-a21e-d9cc71a8dd30.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194830433-1ba9342d-f899-4634-8740-1b59489fb00b.svg" width="50" height="50">
-<!-- <img src="https://user-images.githubusercontent.com/81616266/194830346-6a3d9ae3-5ca3-4702-8665-fdd0f44a4ff7.svg" width="50" height="50"> -->
-<img src="https://user-images.githubusercontent.com/81616266/194830294-ba97d1e6-9228-435b-8f96-7e9e73454f69.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194830246-6953f44e-dad1-469d-a25f-9c557c51fb38.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194830173-5e13c1b1-906d-4c2b-92e2-dd9d07e1592f.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194830042-a5067f0d-8cfc-40b3-9503-3ad69d90dfc8.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194829973-b323ce39-3df7-4ebc-8c6f-b6367cc61ccd.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194829916-13bd8b9d-8cc8-44e9-92f8-c0be1426f562.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194829848-39991646-b6b7-4b9f-be46-98d2f0a278ec.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194829742-1e45bac2-548a-4753-9c7f-b13f710188eb.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194829702-3fb7ca71-a43a-40f3-b638-1c56cd15f652.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194829638-e18c7f6f-e758-4560-9fc1-25501bc1efed.svg" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/81616266/194829573-c75c447e-020f-4f60-80f3-79612705ec85.svg" width="50" height="50">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" height="30"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="30"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" height="30"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="30"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="30"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="30"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" height="30"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" height="30"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="30"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" height="30"/>
+  <img src="https://img.shields.io/badge/CI/CD-A31F34?logo=githubactions&logoColor=white" alt="CI/CD" height="30"/>
+</p>
 
-<img src="https://user-images.githubusercontent.com/81616266/194827466-d2cca8c5-24fe-460c-9ddd-5ff240b7f856.svg" width="50" height="50">
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechGuySaad&show_icons=true&theme=dark&bg_color=0d0d0d&text_color=ffffff&icon_color=ff007f&title_color=ff007f" alt="GitHub Stats" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TechGuySaad&layout=compact&theme=dark&bg_color=0d0d0d&text_color=ffffff&icon_color=ff007f&title_color=ff007f" alt="Top Languages" width="30%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechGuySaad&theme=dark&background=0d0d0d&hide_border=true&fire=ff007f&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="30%" />
 </p>
 
 
 
-<h1>Contact</h1>
-<br>
+## 📫 Contact
 
+<p>
+  <a href="https://twitter.com/TechGuySaad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" height="30"/></a>
+  <a href="https://www.linkedin.com/in/saad-rahman-59696a1bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
+  <a href="https://www.youtube.com/channel/UCaaJe4ieqjNmTvdMkmJ2Lew"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" height="30"/></a>
+</p>
 
+---
 
-
- 
-<a href="https://twitter.com/TechGuySaad"><img src="https://user-images.githubusercontent.com/81616266/194835625-8ef6faa8-1aff-4b55-a676-dbcf95e1caec.svg" width="50" height="50"></a>
-
-<a href="https://www.linkedin.com/in/saad-rahman-59696a1bb/"><img src="https://user-images.githubusercontent.com/81616266/194836712-f1333a7f-f856-481a-b268-93f000265f79.svg" width="50" height="50"></a>
-
-<a href="https://www.youtube.com/channel/UCaaJe4ieqjNmTvdMkmJ2Lew">
-<img src="https://user-images.githubusercontent.com/81616266/194925155-124c8657-02ce-4ce8-a3bd-c81db0c3ed57.png" width="50" height="50">
-</a>
-
-
-
-
-
-<hr>
-
-
-
-
-
-
-
-<!--
-**TechGuySaad/TechGuySaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
